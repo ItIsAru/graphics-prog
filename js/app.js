@@ -1,3 +1,4 @@
+//This is a test commit.
 //scene camera and renderer set up
 let scene = new THREE.Scene();
 let camera = new THREE.PerspectiveCamera(
